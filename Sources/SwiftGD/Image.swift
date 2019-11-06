@@ -1,7 +1,7 @@
 #if os(Linux)
 import Glibc
-#else
-import Darwin
+// #else
+// import Darwin
 #endif
 
 import Foundation
